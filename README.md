@@ -32,10 +32,9 @@
 - 🔍 Explainable AI
 - 📌 Future Improvements
 - 🧠 Key Learnings
-- 📚 Technical Learnings
-- 💼 Practical Learnings
-
+  
 ---
+
 # 💳 Credit Card Fraud Detection using Machine Learning
 
 An end-to-end Machine Learning project that detects fraudulent credit card transactions using data preprocessing, exploratory data analysis, feature engineering, class imbalance handling, and multiple classification algorithms. The project focuses on maximizing fraud detection while minimizing false positives through robust model evaluation and explainable AI techniques.
